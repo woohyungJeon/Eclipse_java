@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Eclipse_java"]
+	url = https://github.com/woohyungJeon/Eclipse_java.git
+	fetch = +refs/heads/*:refs/remotes/Eclipse_java/*
+[remote "origin"]
+	url = https://github.com/woohyungJeon/Eclipse_java.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
